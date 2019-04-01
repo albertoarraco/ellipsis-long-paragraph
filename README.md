@@ -1,5 +1,7 @@
 # :scissors: Ellipsis long paragraph :scissors:
 
+#### :tada: :tada: Vanilla Javascript. NO DEPENDENCIES :tada: :tada: 
+
 Demo: [index.html](https://github.com/albertoarraco/ellipsis-long-paragraph/blob/master/index.html)
 
 Script to trim long paragraphs by adding '...' at the end
