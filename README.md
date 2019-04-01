@@ -1,4 +1,4 @@
-# Ellipsis long paragraph
+# :scissors: Ellipsis long paragraph :scissors:
 
 Demo: [index.html](https://github.com/albertoarraco/ellipsis-long-paragraph/blob/master/index.html)
 
