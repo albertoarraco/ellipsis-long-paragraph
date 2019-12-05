@@ -2,7 +2,7 @@
 
 #### :tada: :tada: Vanilla Javascript. NO DEPENDENCIES :tada: :tada: 
 
-Demo: [index.html](https://github.com/albertoarraco/ellipsis-long-paragraph/blob/master/index.html)
+Demo: [demo.html](https://github.com/albertoarraco/ellipsis-long-paragraph/blob/master/demo.html)
 
 Script to trim long paragraphs by adding '...' at the end
 
